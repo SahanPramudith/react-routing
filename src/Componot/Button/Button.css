@@ -1,0 +1,11 @@
+.button{
+    background-color: blue;
+    color: aliceblue;
+    width: 80px;
+    height: 30px;
+    border-radius: 8px;
+    margin: 10px;
+    padding-inline: 10px;
+    border: none;
+
+}
